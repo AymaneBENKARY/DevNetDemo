@@ -6,3 +6,4 @@ def hello_code():
 
 if __name__ == "__main__":
 	print(hello_code())
+	print("this is a new line")
